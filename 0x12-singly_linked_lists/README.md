@@ -4,13 +4,13 @@ README.md
 
  - Singly linked lists
 
-Tests ✔️
+Tests
 * Tests: This Directory is for tests purposes.
 
-Header File 📁
+IHeader File 
 * lists.h: Header file containing definitions and prototypes for all types and functions written for the project.
 Type/File	Definition/Prototype
-* struct list_s		•	char *str
+* struct lists		•	char *str
 * unsigned int len
 * struct list_s *next
 typedef list_t	struct list_s
